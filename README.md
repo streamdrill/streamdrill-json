@@ -3,7 +3,7 @@
 Version 1.0 (initial public release)
 
 A wrapper for representing, parsing and serialization of Scala and Java types as JSON.
-This library uses the [smart-json parser](https://github.com/netplex/json-smart-v1) for
+This library uses the [json-smart parser](https://github.com/netplex/json-smart-v1) for
 parsing but provides its own fast json serialization.
 
 BUILDING
